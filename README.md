@@ -1,4 +1,4 @@
-### Hi there 👋 Banana
+### Hi there 👋
 
 <!--
 **Sumutai/Sumutai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
