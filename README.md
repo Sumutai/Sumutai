@@ -1,4 +1,6 @@
-### Hi there 👋
+ ### Hi there 👋 :disguised_face:
+
+![20230823_165930](https://github.com/Sumutai/Sumutai/assets/144267144/f79bba37-1774-4683-81e3-d4c03c02b735)
 
 <!--
 **Sumutai/Sumutai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
